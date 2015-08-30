@@ -1,0 +1,1 @@
+I was originally going to imitate the config structure of NodeJS completely, but I'm going to move back on that and keep it simple for now. In this folder, there are config settings for all globals (server, secret) and then methods for finding other server-side configs (in modules).
